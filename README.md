@@ -59,7 +59,7 @@ A libristo plugin which makes the website actually usable.
 
 ### Accessiblity features
 
-- Consider adding accessiblity features like text to speech, adjustable text size and contrast, and keyboard navigation.
+- Consider adding accessibility features like text to speech, adjustable text size and contrast, and keyboard navigation.
 
 ### Author alerts 
 
@@ -67,4 +67,4 @@ A libristo plugin which makes the website actually usable.
 
 ### Social media sharing
 
-- Add buttons to share your wishlist or cart or whichever book you might be looking at across multiple social medias
+- Add buttons to share your wishlist or cart or whichever book you might be looking at across multiple social medias.
