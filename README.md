@@ -65,3 +65,6 @@ A libristo plugin which makes the website actually usable.
 
 - Consider adding notifications when an author's new book is available on the website to purchase.
 
+### Social media sharing
+
+- Add buttons to share your wishlist or cart or whichever book you might be looking at across multiple social medias
