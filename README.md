@@ -1,35 +1,54 @@
 # Nulibro
-A libristo plugin which makes the website actually usable 
 
-TODO: 
+A libristo plugin which makes the website actually usable.
 
---  Make the cart better: not refresh the website every single time that you do anything with it. Want to remove an item? Click the X button and it removes it but    then also transports you to the cart interface which is annoying asf. Did you add something to your cart? Pop up interface which tells you it has been added with   recommendations and a little bar which says x until free shipping but it also does not update the cart widget in the corner. For that you have to refresh the   website to see it being added and see the new total which is annoying asf. Make the popup non existent and make it a little notification in the corner which says   something like 'Item added! X until free shipping'.
+## TODO
 
--- Remake the entire wishlist system currently the things lacking are:
+### Improve the Cart
 
-  selecting multiple items at once
-  
-  changing anything without the website refreshing 50 times
-  
-  auto sorting the list by author,price,date or publisher
-  
-  a way to see availability, shipping time and price changes
-  
-  collapsing the list into other forms fxp no pictures, smaller picture sizes, horizontal or vertical listing
+- Prevent the website from refreshing every single time an action is performed with the cart.
+- Remove the popup interface when an item is added to the cart. Instead, display a small notification in the corner.
 
-  addinng multiple items to the cart without it refreshing the entire website, hell even just one time refrehses the website, same with removing items from the wishlist
+### Wishlist System Overhaul
 
-  
--- Add a dark theme 
+- Enable selection of multiple items at once.
+- Prevent the website from refreshing multiple times when changes are made.
+- Implement auto sorting of the list by author, price, date, or publisher.
+- Display availability, shipping time, and price changes.
+- Allow the list to be collapsed into other forms (e.g., no pictures, smaller picture sizes, horizontal or vertical listing).
+- Enable adding multiple items to the cart without refreshing the entire website.
 
--- Add multiple languages (German,French,Ukranian,Russian) 
+### Add a Dark Theme
 
--- Autocomplete delivery options and auto add it to the prices for books when your cart is empty ( shipping is flat 5 eur for every book so you only need to add the price to the first book).
+- Consider adding more customization options.
 
--- Remove the 'Be x' thing because it is useless and takes up space
+### Implement Goodreads Reviews
 
--- Add a sorty by price option (high or low) same with sort by author in general add a better search system which allows you to be more narrow. Something like blackwells.
+- Consider importing your Goodreads 'to read' or any list to your wishlist.
+- Display the pages and genre below the star count.
 
--- Remake the shopping cart interface into something like this:
-![planforlibrist](https://github.com/alexxsandar52/Nulibro/assets/165872587/9f1e4abf-9a2d-4eea-a0db-b00ee111f791)
+### Add Multiple Languages
 
+- Include German, French, Ukrainian, Russian.
+
+### Autocomplete Delivery Options
+
+- Automatically add delivery costs to the prices for books when your cart is empty.
+
+### Remove the 'Be x' Feature
+
+- useless and takes up space.
+
+### Improve Search System
+
+- Add a sort by price option (high or low).
+- Add a sort by author option.
+- Implement a better search system which allows for more narrow searches.
+
+### Show Benefits Balance
+
+- Display your benefits balance in the corner.
+
+### Remake the Shopping Cart Interface
+
+- Redesign the shopping cart interface.
