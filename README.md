@@ -52,3 +52,16 @@ A libristo plugin which makes the website actually usable.
 ### Remake the Shopping Cart Interface
 
 - Redesign the shopping cart interface.
+
+### Book preview
+
+- Consider adding a book preview from Amazon.
+
+### Accessiblity features
+
+- Consider adding accessiblity features like text to speech, adjustable text size and contrast, and keyboard navigation.
+
+### Author alerts 
+
+- Consider adding notifications when an author's new book is available on the website to purchase.
+
