@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Nulibro",
+  "version": "1",
+
+  "description": "A libristo plugin which makes the website actually usable.",
+
+  "icons": {
+    "Libro": "icons/Libro.png"
+  },
+
+  "content_scripts": [
+    {
+    }
+  ]
+}
